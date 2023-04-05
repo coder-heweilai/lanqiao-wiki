@@ -5,11 +5,11 @@
 
 ## 目录结构
 ```
-lanqiaocode ---主文件夹
-    competition-questions ---历届比赛真题及解析
-        provincial-competition ---省赛
-        national-competition ---国赛
-    summarize-experience ---参赛选手经验总结分享
+lanqiaocode 主文件夹
+----competition-questions 历届比赛真题及解析
+--------provincial-competition 省赛
+--------national-competition 国赛
+----summarize-experience 参赛选手经验总结分享
 ```
 
 ## 成为贡献者（contributer）
