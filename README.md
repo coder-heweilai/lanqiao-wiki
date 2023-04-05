@@ -18,3 +18,6 @@ lanqiaocode ---主文件夹
 我的邮箱: huawuque404@163.com
 
 ## 项目贡献者列表
+
+## License(开源许可)
+转载或使用仓库内容, 请在相关文件中署名 "write by huawuque404"
