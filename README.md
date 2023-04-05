@@ -24,10 +24,17 @@ lanqiaocode 主文件夹
 
 ## 成为贡献者（contributer）
 如果你有蓝桥杯备赛的相关资料, 或者你想要分享你的宝贵的、有价值的参赛经验和方法总结等, 另外仓库中的许多代码都没有注释, 你愿意给仓库中已有代码进行解释和注释, 帮助到更多人, 那么欢迎你参与本项目的贡献, 在参与贡献之前请先与我进行沟通, 方便贡献的开展, 届时, 你的名字将会出现在本项目的贡献者列表中
+
 我的微信: \_huawuque404\_(花无缺)
+
 我的邮箱: huawuque404@163.com
 
 ## 项目贡献者列表
+<p align="left">
+    <a href="https://github.com/huawuque404/lanqiaocode/graphs/contributors">
+        <img width="50" src="https://contrib.rocks/image?repo=huawuque404/lanqiaocode" />
+    </a>
+</p>
 
 ## License(开源许可)
 转载或使用仓库内容, 请在相关文件中署名 "write by huawuque404"
