@@ -43,7 +43,7 @@ lanqiaocode 主文件夹
 
 <p align="left">
     <a href="https://github.com/huawuque404/lanqiao-wiki/graphs/contributors">
-        <img width="50" src="https://contrib.rocks/image?repo=huawuque404/lanqiaocode" />
+        <img width="50" src="https://contrib.rocks/image?repo=huawuque404/lanqiao-wiki" />
     </a>
 </p>
 
